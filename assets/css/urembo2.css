@@ -1,0 +1,44 @@
+.fruits{
+    background-color: blueviolet;
+    border: 5px solid brown;
+    padding: 15px;
+    margin: 15px;
+    color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+    
+.cars{
+    background-color: rgb(0, 0, 0);
+    border: 5px dotted;
+    padding: 15px;
+    margin: 10px;
+    color: rgb(28, 207, 147);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    
+}
+.Animals{
+    background-color: saddlebrown;
+    border: 2px wheat;
+    padding: 15px;
+    margin: 15px;
+    color: black;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+   
+}
+#computer{
+    background-color: rgb(38, 51, 25);
+    border: 2px black;
+    padding: 15px;
+    margin: 15px;
+    color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    
+}

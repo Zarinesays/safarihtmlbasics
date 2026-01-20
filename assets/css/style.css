@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../../../../Downloads/sun.jpeg);
+    background-color: bisque;
+    background-repeat: no-repeat;
+    
+   
+    padding: 30px;
+
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 12px;
+    border: 2px solid #ddd;
+    text-align: left;
+}
+th{
+    background: #1f2937;
+    color: #fff;
+
+
+}
+tr:hover{
+    background: #0b40b3;
+    
+}
+h2{
+    color: #1f2937;
+    text-align: center;
+    font-size: 30px;
+
+}
